@@ -18,10 +18,6 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 
-## Experiment:
-<img width="884" height="523" alt="image (1)" src="https://github.com/user-attachments/assets/42062de2-55e1-4e71-a398-8bd061218d01" />
-
-
 ## Program
 ```python
 import math
